@@ -1,3 +1,3 @@
 # EPG для IPTV edem.tv
 
-[EPG с описанием каналов](https://edemtv.github.io/epg.xml.gz)
+[EPG с описанием каналов](http://epg.it999.ru/edem.xml.gz)
