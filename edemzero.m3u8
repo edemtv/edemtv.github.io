@@ -53,7 +53,7 @@ http://localhost/iptv/00000000000000/934/index.m3u8
 http://localhost/iptv/00000000000000/935/index.m3u8
 #EXTINF:0 group-title="українські",НТН
 http://localhost/iptv/00000000000000/936/index.m3u8
-#EXTINF:0 group-title="українські",Iнтер
+#EXTINF:0 group-title="українські",Інтер
 http://localhost/iptv/00000000000000/937/index.m3u8
 #EXTINF:0 group-title="українські",Пiксель ТВ
 http://localhost/iptv/00000000000000/938/index.m3u8
@@ -81,6 +81,8 @@ http://localhost/iptv/00000000000000/973/index.m3u8
 http://localhost/iptv/00000000000000/976/index.m3u8
 #EXTINF:0 group-title="українські",MAXXI TV
 http://localhost/iptv/00000000000000/977/index.m3u8
+#EXTINF:0 group-title="українські",News Network
+http://localhost/iptv/00000000000000/978/index.m3u8
 #EXTINF:0 group-title="українські",Южная волна
 http://localhost/iptv/00000000000000/979/index.m3u8
 #EXTINF:0 group-title="українські",Перший козацький
@@ -95,6 +97,28 @@ http://localhost/iptv/00000000000000/985/index.m3u8
 http://localhost/iptv/00000000000000/987/index.m3u8
 #EXTINF:0 group-title="українські",Громадьске
 http://localhost/iptv/00000000000000/988/index.m3u8
+#EXTINF:0 group-title="українські",BOLT
+http://localhost/iptv/00000000000000/991/index.m3u8
+#EXTINF:0 group-title="українські",Star Cinema
+http://localhost/iptv/00000000000000/992/index.m3u8
+#EXTINF:0 group-title="українські",Чернiвецький Промiнь
+http://localhost/iptv/00000000000000/1004/index.m3u8
+#EXTINF:0 group-title="українські",UA:Перший
+http://localhost/iptv/00000000000000/1016/index.m3u8
+#EXTINF:0 group-title="українські",UA:Крым
+http://localhost/iptv/00000000000000/1017/index.m3u8
+#EXTINF:0 group-title="українські",MostVideo.TV
+http://localhost/iptv/00000000000000/1027/index.m3u8
+#EXTINF:0 group-title="українські",MostVideo2.TV
+http://localhost/iptv/00000000000000/1028/index.m3u8
+#EXTINF:0 group-title="українські",TV5
+http://localhost/iptv/00000000000000/1030/index.m3u8
+#EXTINF:0 group-title="українські",The MIR
+http://localhost/iptv/00000000000000/1039/index.m3u8
+#EXTINF:0 group-title="українські",Star Family
+http://localhost/iptv/00000000000000/1042/index.m3u8
+#EXTINF:0 group-title="українські",Интер+
+http://localhost/iptv/00000000000000/1047/index.m3u8
 #EXTINF:0 group-title="новости",РБК-ТВ
 http://localhost/iptv/00000000000000/106/index.m3u8
 #EXTINF:0 group-title="новости",Пятый Канал
@@ -301,6 +325,8 @@ http://localhost/iptv/00000000000000/736/index.m3u8
 http://localhost/iptv/00000000000000/742/index.m3u8
 #EXTINF:0 group-title="познавательные",Психология 21
 http://localhost/iptv/00000000000000/532/index.m3u8
+#EXTINF:0 group-title="познавательные",English Club TV
+http://localhost/iptv/00000000000000/993/index.m3u8
 #EXTINF:0 group-title="детские",Tiji TV
 http://localhost/iptv/00000000000000/108/index.m3u8
 #EXTINF:0 group-title="детские",Gulli
@@ -337,6 +363,8 @@ http://localhost/iptv/00000000000000/737/index.m3u8
 http://localhost/iptv/00000000000000/740/index.m3u8
 #EXTINF:0 group-title="детские",Мультик HD
 http://localhost/iptv/00000000000000/921/index.m3u8
+#EXTINF:0 group-title="детские",Duck TV
+http://localhost/iptv/00000000000000/1031/index.m3u8
 #EXTINF:0 group-title="развлекательные",ТНТ4
 http://localhost/iptv/00000000000000/104/index.m3u8
 #EXTINF:0 group-title="развлекательные",ЖАРА
@@ -427,6 +455,42 @@ http://localhost/iptv/00000000000000/971/index.m3u8
 http://localhost/iptv/00000000000000/974/index.m3u8
 #EXTINF:0 group-title="другие",Возрождение
 http://localhost/iptv/00000000000000/984/index.m3u8
+#EXTINF:0 group-title="другие",Архыз 24
+http://localhost/iptv/00000000000000/1049/index.m3u8
+#EXTINF:0 group-title="другие",CBC AZ
+http://localhost/iptv/00000000000000/1050/index.m3u8
+#EXTINF:0 group-title="другие",GUNAZ TV
+http://localhost/iptv/00000000000000/1051/index.m3u8
+#EXTINF:0 group-title="другие",ABP News
+http://localhost/iptv/00000000000000/1052/index.m3u8
+#EXTINF:0 group-title="другие",AIT Int
+http://localhost/iptv/00000000000000/1053/index.m3u8
+#EXTINF:0 group-title="другие",ТМВ RU
+http://localhost/iptv/00000000000000/1054/index.m3u8
+#EXTINF:0 group-title="другие",Союз ТВ
+http://localhost/iptv/00000000000000/1055/index.m3u8
+#EXTINF:0 group-title="другие",ТБН Россия
+http://localhost/iptv/00000000000000/1056/index.m3u8
+#EXTINF:0 group-title="другие",8 канал
+http://localhost/iptv/00000000000000/1057/index.m3u8
+#EXTINF:0 group-title="другие",8 канал - Красноярский край
+http://localhost/iptv/00000000000000/1058/index.m3u8
+#EXTINF:0 group-title="другие",Астрахань 24
+http://localhost/iptv/00000000000000/1059/index.m3u8
+#EXTINF:0 group-title="другие",Грозный
+http://localhost/iptv/00000000000000/1060/index.m3u8
+#EXTINF:0 group-title="другие",Беларусь 24
+http://localhost/iptv/00000000000000/1061/index.m3u8
+#EXTINF:0 group-title="другие",HardLife TV
+http://localhost/iptv/00000000000000/1062/index.m3u8
+#EXTINF:0 group-title="другие",Миллет
+http://localhost/iptv/00000000000000/1064/index.m3u8
+#EXTINF:0 group-title="другие",Silence TV HD
+http://localhost/iptv/00000000000000/1065/index.m3u8
+#EXTINF:0 group-title="другие",Новый мир
+http://localhost/iptv/00000000000000/1066/index.m3u8
+#EXTINF:0 group-title="другие",ILand
+http://localhost/iptv/00000000000000/1067/index.m3u8
 #EXTINF:0 group-title="HD",Первый HD
 http://localhost/iptv/00000000000000/204/index.m3u8
 #EXTINF:0 group-title="HD",VIP Premiere
