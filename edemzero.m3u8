@@ -95,7 +95,7 @@ http://localhost/iptv/00000000000000/982/index.m3u8
 http://localhost/iptv/00000000000000/985/index.m3u8
 #EXTINF:0 group-title="українські",1+1 International
 http://localhost/iptv/00000000000000/987/index.m3u8
-#EXTINF:0 group-title="українські",Громадьске
+#EXTINF:0 group-title="українські",Громадське
 http://localhost/iptv/00000000000000/988/index.m3u8
 #EXTINF:0 group-title="українські",BOLT
 http://localhost/iptv/00000000000000/991/index.m3u8
@@ -173,8 +173,6 @@ http://localhost/iptv/00000000000000/510/index.m3u8
 http://localhost/iptv/00000000000000/517/index.m3u8
 #EXTINF:0 group-title="кино",TV XXI
 http://localhost/iptv/00000000000000/525/index.m3u8
-#EXTINF:0 group-title="кино",CBS Drama
-http://localhost/iptv/00000000000000/542/index.m3u8
 #EXTINF:0 group-title="кино",КИНОКОМЕДИЯ
 http://localhost/iptv/00000000000000/145/index.m3u8
 #EXTINF:0 group-title="кино",ИНДИЙСКОЕ КИНО
@@ -183,7 +181,7 @@ http://localhost/iptv/00000000000000/146/index.m3u8
 http://localhost/iptv/00000000000000/148/index.m3u8
 #EXTINF:0 group-title="кино",Русский Иллюзион
 http://localhost/iptv/00000000000000/547/index.m3u8
-#EXTINF:0 group-title="кино",Иллюзион +
+#EXTINF:0 group-title="кино",Теленовелла
 http://localhost/iptv/00000000000000/548/index.m3u8
 #EXTINF:0 group-title="кино",Еврокино
 http://localhost/iptv/00000000000000/549/index.m3u8
@@ -237,7 +235,7 @@ http://localhost/iptv/00000000000000/719/index.m3u8
 http://localhost/iptv/00000000000000/115/index.m3u8
 #EXTINF:0 group-title="музыка",МУЗ
 http://localhost/iptv/00000000000000/116/index.m3u8
-#EXTINF:0 group-title="музыка",RUSONG TV
+#EXTINF:0 group-title="музыка",BRIDGE TV Русский Хит
 http://localhost/iptv/00000000000000/120/index.m3u8
 #EXTINF:0 group-title="музыка",Bridge TV
 http://localhost/iptv/00000000000000/122/index.m3u8
@@ -273,7 +271,7 @@ http://localhost/iptv/00000000000000/119/index.m3u8
 http://localhost/iptv/00000000000000/121/index.m3u8
 #EXTINF:0 group-title="познавательные",Россия-Культура
 http://localhost/iptv/00000000000000/505/index.m3u8
-#EXTINF:0 group-title="познавательные",24 ДОК
+#EXTINF:0 group-title="познавательные",Доктор
 http://localhost/iptv/00000000000000/512/index.m3u8
 #EXTINF:0 group-title="познавательные",Авто 24
 http://localhost/iptv/00000000000000/538/index.m3u8
@@ -643,7 +641,7 @@ http://localhost/iptv/00000000000000/150/index.m3u8
 http://localhost/iptv/00000000000000/160/index.m3u8
 #EXTINF:0 group-title="спорт",Русский Экстрим
 http://localhost/iptv/00000000000000/700/index.m3u8
-#EXTINF:0 group-title="USA",E!
+#EXTINF:0 group-title="USA",FX
 http://localhost/iptv/00000000000000/901/index.m3u8
 #EXTINF:0 group-title="USA",Food Network
 http://localhost/iptv/00000000000000/902/index.m3u8
