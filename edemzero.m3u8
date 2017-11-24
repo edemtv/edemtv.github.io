@@ -325,6 +325,8 @@ http://localhost/iptv/00000000000000/742/index.m3u8
 http://localhost/iptv/00000000000000/532/index.m3u8
 #EXTINF:0 group-title="познавательные",English Club TV
 http://localhost/iptv/00000000000000/993/index.m3u8
+#EXTINF:0 group-title="познавательные",Travel TV
+http://localhost/iptv/00000000000000/1044/index.m3u8
 #EXTINF:0 group-title="детские",Tiji TV
 http://localhost/iptv/00000000000000/108/index.m3u8
 #EXTINF:0 group-title="детские",Gulli
@@ -597,6 +599,8 @@ http://localhost/iptv/00000000000000/975/index.m3u8
 http://localhost/iptv/00000000000000/983/index.m3u8
 #EXTINF:0 group-title="HD",Настоящее время
 http://localhost/iptv/00000000000000/986/index.m3u8
+#EXTINF:0 group-title="HD",Travel HD
+http://localhost/iptv/00000000000000/1043/index.m3u8
 #EXTINF:0 group-title="взрослые",Эгоист
 http://localhost/iptv/00000000000000/526/index.m3u8
 #EXTINF:0 group-title="взрослые",Playboy
