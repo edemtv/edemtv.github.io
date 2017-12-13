@@ -33,7 +33,7 @@ http://localhost/iptv/00000000000000/924/index.m3u8
 http://localhost/iptv/00000000000000/925/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2095" tvg-logo="http://epg.it999.ru/img/2095.png",NewsOne
 http://localhost/iptv/00000000000000/926/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2096" tvg-logo="http://epg.it999.ru/img/2096.png",Eспресо TV
+#EXTINF:0 group-title="українські",Еспресо TV
 http://localhost/iptv/00000000000000/927/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2097" tvg-logo="http://epg.it999.ru/img/2097.png",СТБ
 http://localhost/iptv/00000000000000/928/index.m3u8
@@ -109,7 +109,7 @@ http://localhost/iptv/00000000000000/1016/index.m3u8
 http://localhost/iptv/00000000000000/1017/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2149" tvg-logo="http://epg.it999.ru/img/2149.png",MostVideo.TV
 http://localhost/iptv/00000000000000/1027/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2150" tvg-logo="http://epg.it999.ru/img/2150.png",MostVideo2.TV
+#EXTINF:0 group-title="українські",OBOZ TV
 http://localhost/iptv/00000000000000/1028/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2151" tvg-logo="http://epg.it999.ru/img/2151.png",TV5
 http://localhost/iptv/00000000000000/1030/index.m3u8
@@ -453,6 +453,8 @@ http://localhost/iptv/00000000000000/970/index.m3u8
 http://localhost/iptv/00000000000000/971/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="2137" tvg-logo="http://epg.it999.ru/img/2137.png",Йога 23
 http://localhost/iptv/00000000000000/974/index.m3u8
+#EXTINF:0 group-title="другие",СПАС
+http://localhost/iptv/00000000000000/983/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="2138" tvg-logo="http://epg.it999.ru/img/2138.png",Возрождение
 http://localhost/iptv/00000000000000/984/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="2157" tvg-logo="http://epg.it999.ru/img/2157.png",Архыз 24
@@ -595,8 +597,6 @@ http://localhost/iptv/00000000000000/239/index.m3u8
 http://localhost/iptv/00000000000000/954/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2140" tvg-logo="http://epg.it999.ru/img/2140.png",Два Диеза
 http://localhost/iptv/00000000000000/975/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2141" tvg-logo="http://epg.it999.ru/img/2141.png",Баланс ТВ
-http://localhost/iptv/00000000000000/983/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2142" tvg-logo="http://epg.it999.ru/img/2142.png",Настоящее время
 http://localhost/iptv/00000000000000/986/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2177" tvg-logo="http://epg.it999.ru/img/2177.png",Travel HD

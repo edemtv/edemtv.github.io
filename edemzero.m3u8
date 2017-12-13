@@ -33,7 +33,7 @@ http://localhost/iptv/00000000000000/924/index.m3u8
 http://localhost/iptv/00000000000000/925/index.m3u8
 #EXTINF:0 group-title="українські",NewsOne
 http://localhost/iptv/00000000000000/926/index.m3u8
-#EXTINF:0 group-title="українські",Eспресо TV
+#EXTINF:0 group-title="українські",Еспресо TV
 http://localhost/iptv/00000000000000/927/index.m3u8
 #EXTINF:0 group-title="українські",СТБ
 http://localhost/iptv/00000000000000/928/index.m3u8
@@ -109,7 +109,7 @@ http://localhost/iptv/00000000000000/1016/index.m3u8
 http://localhost/iptv/00000000000000/1017/index.m3u8
 #EXTINF:0 group-title="українські",MostVideo.TV
 http://localhost/iptv/00000000000000/1027/index.m3u8
-#EXTINF:0 group-title="українські",MostVideo2.TV
+#EXTINF:0 group-title="українські",OBOZ TV
 http://localhost/iptv/00000000000000/1028/index.m3u8
 #EXTINF:0 group-title="українські",TV5
 http://localhost/iptv/00000000000000/1030/index.m3u8
@@ -453,6 +453,8 @@ http://localhost/iptv/00000000000000/970/index.m3u8
 http://localhost/iptv/00000000000000/971/index.m3u8
 #EXTINF:0 group-title="другие",Йога 23
 http://localhost/iptv/00000000000000/974/index.m3u8
+#EXTINF:0 group-title="другие",СПАС
+http://localhost/iptv/00000000000000/983/index.m3u8
 #EXTINF:0 group-title="другие",Возрождение
 http://localhost/iptv/00000000000000/984/index.m3u8
 #EXTINF:0 group-title="другие",Архыз 24
@@ -595,8 +597,6 @@ http://localhost/iptv/00000000000000/239/index.m3u8
 http://localhost/iptv/00000000000000/954/index.m3u8
 #EXTINF:0 group-title="HD",Два Диеза
 http://localhost/iptv/00000000000000/975/index.m3u8
-#EXTINF:0 group-title="HD",Баланс ТВ
-http://localhost/iptv/00000000000000/983/index.m3u8
 #EXTINF:0 group-title="HD",Настоящее время
 http://localhost/iptv/00000000000000/986/index.m3u8
 #EXTINF:0 group-title="HD",Travel HD
