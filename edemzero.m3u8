@@ -119,6 +119,12 @@ http://localhost/iptv/00000000000000/1039/index.m3u8
 http://localhost/iptv/00000000000000/1042/index.m3u8
 #EXTINF:0 group-title="українські",Интер+
 http://localhost/iptv/00000000000000/1047/index.m3u8
+#EXTINF:0 group-title="українські",Індиго
+http://localhost/iptv/00000000000000/802/index.m3u8
+#EXTINF:0 group-title="українські",НЛО TV
+http://localhost/iptv/00000000000000/804/index.m3u8
+#EXTINF:0 group-title="українські",Україна
+http://localhost/iptv/00000000000000/809/index.m3u8
 #EXTINF:0 group-title="новости",РБК-ТВ
 http://localhost/iptv/00000000000000/106/index.m3u8
 #EXTINF:0 group-title="новости",Пятый Канал
@@ -231,6 +237,12 @@ http://localhost/iptv/00000000000000/744/index.m3u8
 http://localhost/iptv/00000000000000/726/index.m3u8
 #EXTINF:0 group-title="кино",Bollywood
 http://localhost/iptv/00000000000000/719/index.m3u8
+#EXTINF:0 group-title="кино",FilmBox
+http://localhost/iptv/00000000000000/817/index.m3u8
+#EXTINF:0 group-title="кино",Filmbox Arthouse
+http://localhost/iptv/00000000000000/818/index.m3u8
+#EXTINF:0 group-title="кино",Kino Pol Int
+http://localhost/iptv/00000000000000/821/index.m3u8
 #EXTINF:0 group-title="музыка",Europa Plus TV
 http://localhost/iptv/00000000000000/115/index.m3u8
 #EXTINF:0 group-title="музыка",МУЗ
@@ -259,6 +271,10 @@ http://localhost/iptv/00000000000000/711/index.m3u8
 http://localhost/iptv/00000000000000/721/index.m3u8
 #EXTINF:0 group-title="музыка",VH1 Classic
 http://localhost/iptv/00000000000000/724/index.m3u8
+#EXTINF:0 group-title="музыка",360 Tune Box
+http://localhost/iptv/00000000000000/810/index.m3u8
+#EXTINF:0 group-title="музыка",Kino Pol Muzyka
+http://localhost/iptv/00000000000000/822/index.m3u8
 #EXTINF:0 group-title="познавательные",История
 http://localhost/iptv/00000000000000/111/index.m3u8
 #EXTINF:0 group-title="познавательные",Моя Планета
@@ -327,6 +343,10 @@ http://localhost/iptv/00000000000000/532/index.m3u8
 http://localhost/iptv/00000000000000/993/index.m3u8
 #EXTINF:0 group-title="познавательные",Travel TV
 http://localhost/iptv/00000000000000/1044/index.m3u8
+#EXTINF:0 group-title="познавательные",DocuBox HD
+http://localhost/iptv/00000000000000/811/index.m3u8
+#EXTINF:0 group-title="познавательные",Sea TV
+http://localhost/iptv/00000000000000/824/index.m3u8
 #EXTINF:0 group-title="детские",Tiji TV
 http://localhost/iptv/00000000000000/108/index.m3u8
 #EXTINF:0 group-title="детские",Gulli
@@ -365,6 +385,8 @@ http://localhost/iptv/00000000000000/740/index.m3u8
 http://localhost/iptv/00000000000000/921/index.m3u8
 #EXTINF:0 group-title="детские",Duck TV
 http://localhost/iptv/00000000000000/1031/index.m3u8
+#EXTINF:0 group-title="детские",BabyTV
+http://localhost/iptv/00000000000000/807/index.m3u8
 #EXTINF:0 group-title="развлекательные",ТНТ4
 http://localhost/iptv/00000000000000/104/index.m3u8
 #EXTINF:0 group-title="развлекательные",ЖАРА
@@ -601,6 +623,16 @@ http://localhost/iptv/00000000000000/975/index.m3u8
 http://localhost/iptv/00000000000000/986/index.m3u8
 #EXTINF:0 group-title="HD",Travel HD
 http://localhost/iptv/00000000000000/1043/index.m3u8
+#EXTINF:0 group-title="HD",Футбол 1 HD
+http://localhost/iptv/00000000000000/800/index.m3u8
+#EXTINF:0 group-title="HD",Футбол 2 HD
+http://localhost/iptv/00000000000000/801/index.m3u8
+#EXTINF:0 group-title="HD",Food Network
+http://localhost/iptv/00000000000000/819/index.m3u8
+#EXTINF:0 group-title="HD",Gametoon
+http://localhost/iptv/00000000000000/820/index.m3u8
+#EXTINF:0 group-title="HD",Nautical Channel
+http://localhost/iptv/00000000000000/823/index.m3u8
 #EXTINF:0 group-title="взрослые",Эгоист
 http://localhost/iptv/00000000000000/526/index.m3u8
 #EXTINF:0 group-title="взрослые",Playboy
@@ -615,6 +647,8 @@ http://localhost/iptv/00000000000000/919/index.m3u8
 http://localhost/iptv/00000000000000/922/index.m3u8
 #EXTINF:0 group-title="взрослые",Candy
 http://localhost/iptv/00000000000000/923/index.m3u8
+#EXTINF:0 group-title="взрослые",Erox HD
+http://localhost/iptv/00000000000000/813/index.m3u8
 #EXTINF:0 group-title="спорт",Матч! Наш спорт
 http://localhost/iptv/00000000000000/107/index.m3u8
 #EXTINF:0 group-title="спорт",Матч! Планета
