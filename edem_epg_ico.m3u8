@@ -623,15 +623,15 @@ http://localhost/iptv/00000000000000/975/index.m3u8
 http://localhost/iptv/00000000000000/986/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2177" tvg-logo="http://epg.it999.ru/img/2177.png",Travel HD
 http://localhost/iptv/00000000000000/1043/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2190" tvg-logo="http://epg.it999.ru/img/2190.png",Футбол 1 HD
+#EXTINF:0 group-title="HD" tvg-id="2189" tvg-logo="http://epg.it999.ru/img/2189.png",Футбол 1 HD
 http://localhost/iptv/00000000000000/800/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2191" tvg-logo="http://epg.it999.ru/img/2191.png",Футбол 2 HD
+#EXTINF:0 group-title="HD" tvg-id="2190" tvg-logo="http://epg.it999.ru/img/2190.png",Футбол 2 HD
 http://localhost/iptv/00000000000000/801/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2057" tvg-logo="http://epg.it999.ru/img/2057.png",Food Network
 http://localhost/iptv/00000000000000/819/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2192" tvg-logo="http://epg.it999.ru/img/2192.png",Gametoon
+#EXTINF:0 group-title="HD" tvg-id="2191" tvg-logo="http://epg.it999.ru/img/2191.png",Gametoon
 http://localhost/iptv/00000000000000/820/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2193" tvg-logo="http://epg.it999.ru/img/2193.png",Nautical Channel
+#EXTINF:0 group-title="HD" tvg-id="2192" tvg-logo="http://epg.it999.ru/img/2192.png",Nautical Channel
 http://localhost/iptv/00000000000000/823/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="431" tvg-logo="http://epg.it999.ru/img/431.png",Эгоист
 http://localhost/iptv/00000000000000/526/index.m3u8
@@ -647,7 +647,7 @@ http://localhost/iptv/00000000000000/919/index.m3u8
 http://localhost/iptv/00000000000000/922/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="2030" tvg-logo="http://epg.it999.ru/img/2030.png",Candy
 http://localhost/iptv/00000000000000/923/index.m3u8
-#EXTINF:0 group-title="взрослые" tvg-id="2194" tvg-logo="http://epg.it999.ru/img/2194.png",Erox HD
+#EXTINF:0 group-title="взрослые" tvg-id="2193" tvg-logo="http://epg.it999.ru/img/2193.png",Erox HD
 http://localhost/iptv/00000000000000/813/index.m3u8
 #EXTINF:0 group-title="спорт" tvg-id="2042" tvg-logo="http://epg.it999.ru/img/2042.png",Матч! Наш спорт
 http://localhost/iptv/00000000000000/107/index.m3u8
