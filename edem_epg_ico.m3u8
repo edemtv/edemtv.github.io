@@ -431,11 +431,11 @@ http://localhost/iptv/00000000000000/1044/index.m3u8
 http://localhost/iptv/00000000000000/811/index.m3u8
 #EXTINF:0 group-title="познавательные" tvg-id="2187" tvg-logo="http://epg.it999.ru/img/2187.png",Sea TV
 http://localhost/iptv/00000000000000/824/index.m3u8
-#EXTINF:0 group-title="познавательные",Da Vinci Learning EN
+#EXTINF:0 group-title="познавательные" tvg-id="2236" tvg-logo="http://epg.it999.ru/img/2236.png",Da Vinci Learning EN
 http://localhost/iptv/00000000000000/1033/index.m3u8
-#EXTINF:0 group-title="познавательные" tvg-id="2236" tvg-logo="http://epg.it999.ru/img/2236.png",Classical Harmony
+#EXTINF:0 group-title="познавательные" tvg-id="2237" tvg-logo="http://epg.it999.ru/img/2237.png",Classical Harmony
 http://localhost/iptv/00000000000000/1037/index.m3u8
-#EXTINF:0 group-title="познавательные" tvg-id="2237" tvg-logo="http://epg.it999.ru/img/2237.png",Travel Channel EN
+#EXTINF:0 group-title="познавательные" tvg-id="2238" tvg-logo="http://epg.it999.ru/img/2238.png",Travel Channel EN
 http://localhost/iptv/00000000000000/1070/index.m3u8
 #EXTINF:0 group-title="детские" tvg-id="555" tvg-logo="http://epg.it999.ru/img/555.png",Tiji TV
 http://localhost/iptv/00000000000000/108/index.m3u8
@@ -477,9 +477,9 @@ http://localhost/iptv/00000000000000/921/index.m3u8
 http://localhost/iptv/00000000000000/1031/index.m3u8
 #EXTINF:0 group-title="детские" tvg-id="2188" tvg-logo="http://epg.it999.ru/img/2188.png",BabyTV
 http://localhost/iptv/00000000000000/807/index.m3u8
-#EXTINF:0 group-title="детские" tvg-id="2238" tvg-logo="http://epg.it999.ru/img/2238.png",Малыш
+#EXTINF:0 group-title="детские" tvg-id="2239" tvg-logo="http://epg.it999.ru/img/2239.png",Малыш
 http://localhost/iptv/00000000000000/1041/index.m3u8
-#EXTINF:0 group-title="детские" tvg-id="2239" tvg-logo="http://epg.it999.ru/img/2239.png",Nickelodeon EN
+#EXTINF:0 group-title="детские" tvg-id="2240" tvg-logo="http://epg.it999.ru/img/2240.png",Nickelodeon EN
 http://localhost/iptv/00000000000000/1069/index.m3u8
 #EXTINF:0 group-title="развлекательные" tvg-id="1649" tvg-logo="http://epg.it999.ru/img/1649.png",ТНТ4
 http://localhost/iptv/00000000000000/104/index.m3u8
@@ -491,9 +491,9 @@ http://localhost/iptv/00000000000000/157/index.m3u8
 http://localhost/iptv/00000000000000/717/index.m3u8
 #EXTINF:0 group-title="развлекательные" tvg-id="1755" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
 http://localhost/iptv/00000000000000/745/index.m3u8
-#EXTINF:0 group-title="развлекательные" tvg-id="2240" tvg-logo="http://epg.it999.ru/img/2240.png",Fashiontv EN
+#EXTINF:0 group-title="развлекательные" tvg-id="2241" tvg-logo="http://epg.it999.ru/img/2241.png",Fashiontv EN
 http://localhost/iptv/00000000000000/1010/index.m3u8
-#EXTINF:0 group-title="развлекательные" tvg-id="2241" tvg-logo="http://epg.it999.ru/img/2241.png",World Fashion Channel
+#EXTINF:0 group-title="развлекательные" tvg-id="2242" tvg-logo="http://epg.it999.ru/img/2242.png",World Fashion Channel
 http://localhost/iptv/00000000000000/1068/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="726" tvg-logo="http://epg.it999.ru/img/726.png",Мир
 http://localhost/iptv/00000000000000/113/index.m3u8
@@ -731,9 +731,9 @@ http://localhost/iptv/00000000000000/819/index.m3u8
 http://localhost/iptv/00000000000000/820/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2192" tvg-logo="http://epg.it999.ru/img/2192.png",Nautical Channel
 http://localhost/iptv/00000000000000/823/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2242" tvg-logo="http://epg.it999.ru/img/2242.png",XSPORT HD
+#EXTINF:0 group-title="HD" tvg-id="2243" tvg-logo="http://epg.it999.ru/img/2243.png",XSPORT HD
 http://localhost/iptv/00000000000000/996/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2243" tvg-logo="http://epg.it999.ru/img/2243.png",Fashiontv EN HD
+#EXTINF:0 group-title="HD" tvg-id="2244" tvg-logo="http://epg.it999.ru/img/2244.png",Fashiontv EN HD
 http://localhost/iptv/00000000000000/1011/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="431" tvg-logo="http://epg.it999.ru/img/431.png",Эгоист
 http://localhost/iptv/00000000000000/526/index.m3u8
@@ -751,7 +751,7 @@ http://localhost/iptv/00000000000000/922/index.m3u8
 http://localhost/iptv/00000000000000/923/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="2193" tvg-logo="http://epg.it999.ru/img/2193.png",Erox HD
 http://localhost/iptv/00000000000000/813/index.m3u8
-#EXTINF:0 group-title="взрослые" tvg-id="2244" tvg-logo="http://epg.it999.ru/img/2244.png",Penthouse TV
+#EXTINF:0 group-title="взрослые" tvg-id="2245" tvg-logo="http://epg.it999.ru/img/2245.png",Penthouse TV
 http://localhost/iptv/00000000000000/1073/index.m3u8
 #EXTINF:0 group-title="спорт" tvg-id="2042" tvg-logo="http://epg.it999.ru/img/2042.png",Матч! Наш спорт
 http://localhost/iptv/00000000000000/107/index.m3u8
