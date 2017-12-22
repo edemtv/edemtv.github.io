@@ -125,81 +125,81 @@ http://localhost/iptv/00000000000000/802/index.m3u8
 http://localhost/iptv/00000000000000/804/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2180" tvg-logo="http://epg.it999.ru/img/2180.png",Україна
 http://localhost/iptv/00000000000000/809/index.m3u8
-#EXTINF:0 group-title="українські",1+1
+#EXTINF:0 group-title="українські" tvg-id="2194" tvg-logo="http://epg.it999.ru/img/2194.png",1+1
 http://localhost/iptv/00000000000000/994/index.m3u8
-#EXTINF:0 group-title="українські",2+2
+#EXTINF:0 group-title="українські" tvg-id="2195" tvg-logo="http://epg.it999.ru/img/2195.png",2+2
 http://localhost/iptv/00000000000000/995/index.m3u8
-#EXTINF:0 group-title="українські",XSPORT
+#EXTINF:0 group-title="українські" tvg-id="2196" tvg-logo="http://epg.it999.ru/img/2196.png",XSPORT
 http://localhost/iptv/00000000000000/997/index.m3u8
-#EXTINF:0 group-title="українські",Бiгудi
+#EXTINF:0 group-title="українські" tvg-id="2197" tvg-logo="http://epg.it999.ru/img/2197.png",Бiгудi
 http://localhost/iptv/00000000000000/989/index.m3u8
-#EXTINF:0 group-title="українські",НТА
+#EXTINF:0 group-title="українські" tvg-id="2198" tvg-logo="http://epg.it999.ru/img/2198.png",НТА
 http://localhost/iptv/00000000000000/990/index.m3u8
-#EXTINF:0 group-title="українські",ТВА
+#EXTINF:0 group-title="українські" tvg-id="2199" tvg-logo="http://epg.it999.ru/img/2199.png",ТВА
 http://localhost/iptv/00000000000000/998/index.m3u8
-#EXTINF:0 group-title="українські",Вiнтаж ТВ
+#EXTINF:0 group-title="українські" tvg-id="2200" tvg-logo="http://epg.it999.ru/img/2200.png",Вiнтаж ТВ
 http://localhost/iptv/00000000000000/999/index.m3u8
-#EXTINF:0 group-title="українські",ZOOM
+#EXTINF:0 group-title="українські" tvg-id="2201" tvg-logo="http://epg.it999.ru/img/2201.png",ZOOM
 http://localhost/iptv/00000000000000/1000/index.m3u8
-#EXTINF:0 group-title="українські",ПлюсПлюс
+#EXTINF:0 group-title="українські" tvg-id="2202" tvg-logo="http://epg.it999.ru/img/2202.png",ПлюсПлюс
 http://localhost/iptv/00000000000000/1002/index.m3u8
-#EXTINF:0 group-title="українські",Малятко ТВ
+#EXTINF:0 group-title="українські" tvg-id="2203" tvg-logo="http://epg.it999.ru/img/2203.png",Малятко ТВ
 http://localhost/iptv/00000000000000/1003/index.m3u8
-#EXTINF:0 group-title="українські",Галичина
+#EXTINF:0 group-title="українські" tvg-id="2204" tvg-logo="http://epg.it999.ru/img/2204.png",Галичина
 http://localhost/iptv/00000000000000/1005/index.m3u8
-#EXTINF:0 group-title="українські",Еко TV
+#EXTINF:0 group-title="українські" tvg-id="2205" tvg-logo="http://epg.it999.ru/img/2205.png",Еко TV
 http://localhost/iptv/00000000000000/1006/index.m3u8
-#EXTINF:0 group-title="українські",ZIK HD
+#EXTINF:0 group-title="українські" tvg-id="2206" tvg-logo="http://epg.it999.ru/img/2206.png",ZIK HD
 http://localhost/iptv/00000000000000/1007/index.m3u8
-#EXTINF:0 group-title="українські",ZIK
+#EXTINF:0 group-title="українські" tvg-id="2207" tvg-logo="http://epg.it999.ru/img/2207.png",ZIK
 http://localhost/iptv/00000000000000/1008/index.m3u8
-#EXTINF:0 group-title="українські",ТЕТ
+#EXTINF:0 group-title="українські" tvg-id="2208" tvg-logo="http://epg.it999.ru/img/2208.png",ТЕТ
 http://localhost/iptv/00000000000000/1009/index.m3u8
-#EXTINF:0 group-title="українські",HDFASHION&LifeStyle
+#EXTINF:0 group-title="українські" tvg-id="2209" tvg-logo="http://epg.it999.ru/img/2209.png",HDFASHION&LifeStyle
 http://localhost/iptv/00000000000000/1012/index.m3u8
-#EXTINF:0 group-title="українські",Сонце
+#EXTINF:0 group-title="українські" tvg-id="2210" tvg-logo="http://epg.it999.ru/img/2210.png",Сонце
 http://localhost/iptv/00000000000000/1013/index.m3u8
-#EXTINF:0 group-title="українські",Прямий
+#EXTINF:0 group-title="українські" tvg-id="2211" tvg-logo="http://epg.it999.ru/img/2211.png",Прямий
 http://localhost/iptv/00000000000000/1014/index.m3u8
-#EXTINF:0 group-title="українські",Прямий HD
+#EXTINF:0 group-title="українські" tvg-id="2212" tvg-logo="http://epg.it999.ru/img/2212.png",Прямий HD
 http://localhost/iptv/00000000000000/1015/index.m3u8
-#EXTINF:0 group-title="українські",Music Box UA
+#EXTINF:0 group-title="українські" tvg-id="2213" tvg-logo="http://epg.it999.ru/img/2213.png",Music Box UA
 http://localhost/iptv/00000000000000/1018/index.m3u8
-#EXTINF:0 group-title="українські",КРТ
+#EXTINF:0 group-title="українські" tvg-id="2214" tvg-logo="http://epg.it999.ru/img/2214.png",КРТ
 http://localhost/iptv/00000000000000/1019/index.m3u8
-#EXTINF:0 group-title="українські",ЧП.INFO
+#EXTINF:0 group-title="українські" tvg-id="2215" tvg-logo="http://epg.it999.ru/img/2215.png",ЧП.INFO
 http://localhost/iptv/00000000000000/1020/index.m3u8
-#EXTINF:0 group-title="українські",Ескулап TV
+#EXTINF:0 group-title="українські" tvg-id="2216" tvg-logo="http://epg.it999.ru/img/2216.png",Ескулап TV
 http://localhost/iptv/00000000000000/1022/index.m3u8
-#EXTINF:0 group-title="українські",УНІАН
+#EXTINF:0 group-title="українські" tvg-id="2217" tvg-logo="http://epg.it999.ru/img/2217.png",УНІАН
 http://localhost/iptv/00000000000000/1023/index.m3u8
-#EXTINF:0 group-title="українські",UA|TV HD
+#EXTINF:0 group-title="українські" tvg-id="2218" tvg-logo="http://epg.it999.ru/img/2218.png",UA|TV HD
 http://localhost/iptv/00000000000000/1024/index.m3u8
-#EXTINF:0 group-title="українські",RTI
+#EXTINF:0 group-title="українські" tvg-id="2219" tvg-logo="http://epg.it999.ru/img/2219.png",RTI
 http://localhost/iptv/00000000000000/1025/index.m3u8
-#EXTINF:0 group-title="українські",Milady Television
+#EXTINF:0 group-title="українські" tvg-id="2220" tvg-logo="http://epg.it999.ru/img/2220.png",Milady Television
 http://localhost/iptv/00000000000000/1026/index.m3u8
-#EXTINF:0 group-title="українські",BOUTIQUE TV
+#EXTINF:0 group-title="українські" tvg-id="2221" tvg-logo="http://epg.it999.ru/img/2221.png",BOUTIQUE TV
 http://localhost/iptv/00000000000000/1029/index.m3u8
-#EXTINF:0 group-title="українські",CBN Еммануил
+#EXTINF:0 group-title="українські" tvg-id="2222" tvg-logo="http://epg.it999.ru/img/2222.png",CBN Еммануил
 http://localhost/iptv/00000000000000/1032/index.m3u8
-#EXTINF:0 group-title="українські",Da Vinci Learning UA
+#EXTINF:0 group-title="українські" tvg-id="2223" tvg-logo="http://epg.it999.ru/img/2223.png",Da Vinci Learning UA
 http://localhost/iptv/00000000000000/1034/index.m3u8
-#EXTINF:0 group-title="українські",7 канал
+#EXTINF:0 group-title="українські" tvg-id="2224" tvg-logo="http://epg.it999.ru/img/2224.png",7 канал
 http://localhost/iptv/00000000000000/1035/index.m3u8
-#EXTINF:0 group-title="українські",Music Box UA HD
+#EXTINF:0 group-title="українські" tvg-id="2225" tvg-logo="http://epg.it999.ru/img/2225.png",Music Box UA HD
 http://localhost/iptv/00000000000000/1036/index.m3u8
-#EXTINF:0 group-title="українські",ТРК Круг
+#EXTINF:0 group-title="українські" tvg-id="2226" tvg-logo="http://epg.it999.ru/img/2226.png",ТРК Круг
 http://localhost/iptv/00000000000000/1040/index.m3u8
-#EXTINF:0 group-title="українські",ТРК Київ
+#EXTINF:0 group-title="українські" tvg-id="2227" tvg-logo="http://epg.it999.ru/img/2227.png",ТРК Київ
 http://localhost/iptv/00000000000000/1045/index.m3u8
-#EXTINF:0 group-title="українські",8 Канал
+#EXTINF:0 group-title="українські" tvg-id="2228" tvg-logo="http://epg.it999.ru/img/2228.png",8 Канал
 http://localhost/iptv/00000000000000/1046/index.m3u8
-#EXTINF:0 group-title="українські",33 Канал
+#EXTINF:0 group-title="українські" tvg-id="2229" tvg-logo="http://epg.it999.ru/img/2229.png",33 Канал
 http://localhost/iptv/00000000000000/1048/index.m3u8
-#EXTINF:0 group-title="українські",Чернiвцi
+#EXTINF:0 group-title="українські" tvg-id="2230" tvg-logo="http://epg.it999.ru/img/2230.png",Чернiвцi
 http://localhost/iptv/00000000000000/1072/index.m3u8
-#EXTINF:0 group-title="українські",24 Канал HD
+#EXTINF:0 group-title="українські" tvg-id="2231" tvg-logo="http://epg.it999.ru/img/2231.png",24 Канал HD
 http://localhost/iptv/00000000000000/1063/index.m3u8
 #EXTINF:0 group-title="новости" tvg-id="743" tvg-logo="http://epg.it999.ru/img/743.png",РБК-ТВ
 http://localhost/iptv/00000000000000/106/index.m3u8
@@ -231,7 +231,7 @@ http://localhost/iptv/00000000000000/947/index.m3u8
 http://localhost/iptv/00000000000000/962/index.m3u8
 #EXTINF:0 group-title="новости" tvg-id="2129" tvg-logo="http://epg.it999.ru/img/2129.png",Euronews
 http://localhost/iptv/00000000000000/969/index.m3u8
-#EXTINF:0 group-title="новости",Deutsche Welle EN
+#EXTINF:0 group-title="новости" tvg-id="2232" tvg-logo="http://epg.it999.ru/img/2232.png",Deutsche Welle EN
 http://localhost/iptv/00000000000000/1021/index.m3u8
 #EXTINF:0 group-title="кино" tvg-id="267" tvg-logo="http://epg.it999.ru/img/267.png",TV 1000 Русское кино
 http://localhost/iptv/00000000000000/101/index.m3u8
@@ -321,9 +321,9 @@ http://localhost/iptv/00000000000000/817/index.m3u8
 http://localhost/iptv/00000000000000/818/index.m3u8
 #EXTINF:0 group-title="кино" tvg-id="2183" tvg-logo="http://epg.it999.ru/img/2183.png",Kino Pol Int
 http://localhost/iptv/00000000000000/821/index.m3u8
-#EXTINF:0 group-title="кино",ZEE TV
+#EXTINF:0 group-title="кино" tvg-id="2233" tvg-logo="http://epg.it999.ru/img/2233.png",ZEE TV
 http://localhost/iptv/00000000000000/1001/index.m3u8
-#EXTINF:0 group-title="кино",FilmBox EN
+#EXTINF:0 group-title="кино" tvg-id="2234" tvg-logo="http://epg.it999.ru/img/2234.png",FilmBox EN
 http://localhost/iptv/00000000000000/1071/index.m3u8
 #EXTINF:0 group-title="музыка" tvg-id="681" tvg-logo="http://epg.it999.ru/img/681.png",Europa Plus TV
 http://localhost/iptv/00000000000000/115/index.m3u8
@@ -357,7 +357,7 @@ http://localhost/iptv/00000000000000/724/index.m3u8
 http://localhost/iptv/00000000000000/810/index.m3u8
 #EXTINF:0 group-title="музыка" tvg-id="2185" tvg-logo="http://epg.it999.ru/img/2185.png",Kino Pol Muzyka
 http://localhost/iptv/00000000000000/822/index.m3u8
-#EXTINF:0 group-title="музыка",MTV Rocks
+#EXTINF:0 group-title="музыка" tvg-id="2235" tvg-logo="http://epg.it999.ru/img/2235.png",MTV Rocks
 http://localhost/iptv/00000000000000/1038/index.m3u8
 #EXTINF:0 group-title="познавательные" tvg-id="1036" tvg-logo="http://epg.it999.ru/img/1036.png",История
 http://localhost/iptv/00000000000000/111/index.m3u8
@@ -433,9 +433,9 @@ http://localhost/iptv/00000000000000/811/index.m3u8
 http://localhost/iptv/00000000000000/824/index.m3u8
 #EXTINF:0 group-title="познавательные",Da Vinci Learning EN
 http://localhost/iptv/00000000000000/1033/index.m3u8
-#EXTINF:0 group-title="познавательные",Classical Harmony
+#EXTINF:0 group-title="познавательные" tvg-id="2236" tvg-logo="http://epg.it999.ru/img/2236.png",Classical Harmony
 http://localhost/iptv/00000000000000/1037/index.m3u8
-#EXTINF:0 group-title="познавательные",Travel Channel EN
+#EXTINF:0 group-title="познавательные" tvg-id="2237" tvg-logo="http://epg.it999.ru/img/2237.png",Travel Channel EN
 http://localhost/iptv/00000000000000/1070/index.m3u8
 #EXTINF:0 group-title="детские" tvg-id="555" tvg-logo="http://epg.it999.ru/img/555.png",Tiji TV
 http://localhost/iptv/00000000000000/108/index.m3u8
@@ -477,9 +477,9 @@ http://localhost/iptv/00000000000000/921/index.m3u8
 http://localhost/iptv/00000000000000/1031/index.m3u8
 #EXTINF:0 group-title="детские" tvg-id="2188" tvg-logo="http://epg.it999.ru/img/2188.png",BabyTV
 http://localhost/iptv/00000000000000/807/index.m3u8
-#EXTINF:0 group-title="детские",Малыш
+#EXTINF:0 group-title="детские" tvg-id="2238" tvg-logo="http://epg.it999.ru/img/2238.png",Малыш
 http://localhost/iptv/00000000000000/1041/index.m3u8
-#EXTINF:0 group-title="детские",Nickelodeon EN
+#EXTINF:0 group-title="детские" tvg-id="2239" tvg-logo="http://epg.it999.ru/img/2239.png",Nickelodeon EN
 http://localhost/iptv/00000000000000/1069/index.m3u8
 #EXTINF:0 group-title="развлекательные" tvg-id="1649" tvg-logo="http://epg.it999.ru/img/1649.png",ТНТ4
 http://localhost/iptv/00000000000000/104/index.m3u8
@@ -491,9 +491,9 @@ http://localhost/iptv/00000000000000/157/index.m3u8
 http://localhost/iptv/00000000000000/717/index.m3u8
 #EXTINF:0 group-title="развлекательные" tvg-id="1755" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
 http://localhost/iptv/00000000000000/745/index.m3u8
-#EXTINF:0 group-title="развлекательные",Fashiontv EN
+#EXTINF:0 group-title="развлекательные" tvg-id="2240" tvg-logo="http://epg.it999.ru/img/2240.png",Fashiontv EN
 http://localhost/iptv/00000000000000/1010/index.m3u8
-#EXTINF:0 group-title="развлекательные",World Fashion Channel
+#EXTINF:0 group-title="развлекательные" tvg-id="2241" tvg-logo="http://epg.it999.ru/img/2241.png",World Fashion Channel
 http://localhost/iptv/00000000000000/1068/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="726" tvg-logo="http://epg.it999.ru/img/726.png",Мир
 http://localhost/iptv/00000000000000/113/index.m3u8
@@ -731,9 +731,9 @@ http://localhost/iptv/00000000000000/819/index.m3u8
 http://localhost/iptv/00000000000000/820/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2192" tvg-logo="http://epg.it999.ru/img/2192.png",Nautical Channel
 http://localhost/iptv/00000000000000/823/index.m3u8
-#EXTINF:0 group-title="HD",XSPORT HD
+#EXTINF:0 group-title="HD" tvg-id="2242" tvg-logo="http://epg.it999.ru/img/2242.png",XSPORT HD
 http://localhost/iptv/00000000000000/996/index.m3u8
-#EXTINF:0 group-title="HD",Fashiontv EN HD
+#EXTINF:0 group-title="HD" tvg-id="2243" tvg-logo="http://epg.it999.ru/img/2243.png",Fashiontv EN HD
 http://localhost/iptv/00000000000000/1011/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="431" tvg-logo="http://epg.it999.ru/img/431.png",Эгоист
 http://localhost/iptv/00000000000000/526/index.m3u8
@@ -751,7 +751,7 @@ http://localhost/iptv/00000000000000/922/index.m3u8
 http://localhost/iptv/00000000000000/923/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="2193" tvg-logo="http://epg.it999.ru/img/2193.png",Erox HD
 http://localhost/iptv/00000000000000/813/index.m3u8
-#EXTINF:0 group-title="взрослые",Penthouse TV
+#EXTINF:0 group-title="взрослые" tvg-id="2244" tvg-logo="http://epg.it999.ru/img/2244.png",Penthouse TV
 http://localhost/iptv/00000000000000/1073/index.m3u8
 #EXTINF:0 group-title="спорт" tvg-id="2042" tvg-logo="http://epg.it999.ru/img/2042.png",Матч! Наш спорт
 http://localhost/iptv/00000000000000/107/index.m3u8
