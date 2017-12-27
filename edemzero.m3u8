@@ -119,6 +119,8 @@ http://localhost/iptv/00000000000000/1039/index.m3u8
 http://localhost/iptv/00000000000000/1042/index.m3u8
 #EXTINF:0 group-title="українські",Интер+
 http://localhost/iptv/00000000000000/1047/index.m3u8
+#EXTINF:0 group-title="українські",O-TV
+http://localhost/iptv/00000000000000/1055/index.m3u8
 #EXTINF:0 group-title="українські",Індиго
 http://localhost/iptv/00000000000000/802/index.m3u8
 #EXTINF:0 group-title="українські",НЛО TV
@@ -195,7 +197,7 @@ http://localhost/iptv/00000000000000/1040/index.m3u8
 http://localhost/iptv/00000000000000/1045/index.m3u8
 #EXTINF:0 group-title="українські",8 Канал
 http://localhost/iptv/00000000000000/1046/index.m3u8
-#EXTINF:0 group-title="українські",33 Канал
+#EXTINF:0 group-title="українські",33 канал
 http://localhost/iptv/00000000000000/1048/index.m3u8
 #EXTINF:0 group-title="українські",Чернiвцi
 http://localhost/iptv/00000000000000/1072/index.m3u8
@@ -319,7 +321,7 @@ http://localhost/iptv/00000000000000/719/index.m3u8
 http://localhost/iptv/00000000000000/817/index.m3u8
 #EXTINF:0 group-title="кино",Filmbox Arthouse
 http://localhost/iptv/00000000000000/818/index.m3u8
-#EXTINF:0 group-title="кино",Kino Pol Int
+#EXTINF:0 group-title="кино",Kino Polska International
 http://localhost/iptv/00000000000000/821/index.m3u8
 #EXTINF:0 group-title="кино",ZEE TV
 http://localhost/iptv/00000000000000/1001/index.m3u8
@@ -355,7 +357,7 @@ http://localhost/iptv/00000000000000/721/index.m3u8
 http://localhost/iptv/00000000000000/724/index.m3u8
 #EXTINF:0 group-title="музыка",360 Tune Box
 http://localhost/iptv/00000000000000/810/index.m3u8
-#EXTINF:0 group-title="музыка",Kino Pol Muzyka
+#EXTINF:0 group-title="музыка",Kino Polska Muzyka
 http://localhost/iptv/00000000000000/822/index.m3u8
 #EXTINF:0 group-title="музыка",MTV Rocks
 http://localhost/iptv/00000000000000/1038/index.m3u8
@@ -589,8 +591,6 @@ http://localhost/iptv/00000000000000/1052/index.m3u8
 http://localhost/iptv/00000000000000/1053/index.m3u8
 #EXTINF:0 group-title="другие",ТМВ RU
 http://localhost/iptv/00000000000000/1054/index.m3u8
-#EXTINF:0 group-title="другие",Союз ТВ
-http://localhost/iptv/00000000000000/1055/index.m3u8
 #EXTINF:0 group-title="другие",ТБН Россия
 http://localhost/iptv/00000000000000/1056/index.m3u8
 #EXTINF:0 group-title="другие",8 канал
@@ -623,7 +623,7 @@ http://localhost/iptv/00000000000000/200/index.m3u8
 http://localhost/iptv/00000000000000/201/index.m3u8
 #EXTINF:0 group-title="HD",Viasat Nature/History HD
 http://localhost/iptv/00000000000000/203/index.m3u8
-#EXTINF:0 group-title="HD",Россия HD
+#EXTINF:0 group-title="HD",Россия 1 HD
 http://localhost/iptv/00000000000000/205/index.m3u8
 #EXTINF:0 group-title="HD",Матч! Футбол 3 HD
 http://localhost/iptv/00000000000000/206/index.m3u8
