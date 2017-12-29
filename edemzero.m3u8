@@ -57,7 +57,7 @@ http://localhost/iptv/00000000000000/936/index.m3u8
 http://localhost/iptv/00000000000000/937/index.m3u8
 #EXTINF:0 group-title="українські",Пiксель ТВ
 http://localhost/iptv/00000000000000/938/index.m3u8
-#EXTINF:0 group-title="українські",Первый городской канал Кривой Рог
+#EXTINF:0 group-title="українські",Первый городской (Кривой Рог)
 http://localhost/iptv/00000000000000/939/index.m3u8
 #EXTINF:0 group-title="українські",ID Fashion
 http://localhost/iptv/00000000000000/940/index.m3u8
@@ -595,7 +595,7 @@ http://localhost/iptv/00000000000000/1054/index.m3u8
 http://localhost/iptv/00000000000000/1056/index.m3u8
 #EXTINF:0 group-title="другие",8 канал
 http://localhost/iptv/00000000000000/1057/index.m3u8
-#EXTINF:0 group-title="другие",8 канал - Красноярский край
+#EXTINF:0 group-title="другие",8 канал Красноярский край
 http://localhost/iptv/00000000000000/1058/index.m3u8
 #EXTINF:0 group-title="другие",Астрахань 24
 http://localhost/iptv/00000000000000/1059/index.m3u8
