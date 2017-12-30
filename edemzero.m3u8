@@ -33,7 +33,7 @@ http://localhost/iptv/00000000000000/924/index.m3u8
 http://localhost/iptv/00000000000000/925/index.m3u8
 #EXTINF:0 group-title="українські",NewsOne
 http://localhost/iptv/00000000000000/926/index.m3u8
-#EXTINF:0 group-title="українські",Еспресо TV
+#EXTINF:0 group-title="українські",Eспресо TV
 http://localhost/iptv/00000000000000/927/index.m3u8
 #EXTINF:0 group-title="українські",СТБ
 http://localhost/iptv/00000000000000/928/index.m3u8

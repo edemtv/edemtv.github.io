@@ -33,7 +33,7 @@ http://localhost/iptv/00000000000000/924/index.m3u8
 http://localhost/iptv/00000000000000/925/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2095" tvg-logo="http://epg.it999.ru/img/2095.png",NewsOne
 http://localhost/iptv/00000000000000/926/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2096" tvg-logo="http://epg.it999.ru/img/2096.png",Еспресо TV
+#EXTINF:0 group-title="українські",Eспресо TV
 http://localhost/iptv/00000000000000/927/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2097" tvg-logo="http://epg.it999.ru/img/2097.png",СТБ
 http://localhost/iptv/00000000000000/928/index.m3u8
