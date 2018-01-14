@@ -279,7 +279,7 @@ http://localhost/iptv/00000000000000/553/index.m3u8
 http://localhost/iptv/00000000000000/154/index.m3u8
 #EXTINF:0 group-title="кино",Amedia 1
 http://localhost/iptv/00000000000000/554/index.m3u8
-#EXTINF:0 group-title="кино",Amedia Premium HD
+#EXTINF:0 group-title="кино",Amedia Premium HD (SD)
 http://localhost/iptv/00000000000000/555/index.m3u8
 #EXTINF:0 group-title="кино",AMEDIA HIT
 http://localhost/iptv/00000000000000/556/index.m3u8
