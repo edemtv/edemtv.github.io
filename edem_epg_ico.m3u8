@@ -279,7 +279,7 @@ http://localhost/iptv/00000000000000/553/index.m3u8
 http://localhost/iptv/00000000000000/154/index.m3u8
 #EXTINF:0 group-title="кино" tvg-id="1371" tvg-logo="http://epg.it999.ru/img/1371.png",Amedia 1
 http://localhost/iptv/00000000000000/554/index.m3u8
-#EXTINF:0 group-title="кино",Amedia Premium HD (SD)
+#EXTINF:0 group-title="кино" tvg-id="2246" tvg-logo="http://epg.it999.ru/img/2246.png",Amedia Premium HD (SD)
 http://localhost/iptv/00000000000000/555/index.m3u8
 #EXTINF:0 group-title="кино" tvg-id="2007" tvg-logo="http://epg.it999.ru/img/2007.png",AMEDIA HIT
 http://localhost/iptv/00000000000000/556/index.m3u8
