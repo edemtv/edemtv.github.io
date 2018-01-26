@@ -541,10 +541,8 @@ http://localhost/iptv/00000000000000/705/index.m3u8
 http://localhost/iptv/00000000000000/706/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="2038" tvg-logo="http://epg.it999.ru/img/2038.png",ТВЦ (+2)
 http://localhost/iptv/00000000000000/716/index.m3u8
-#EXTINF:0 group-title="другие" tvg-id="2025" tvg-logo="http://epg.it999.ru/img/2025.png",Царьград
+#EXTINF:0 group-title="другие",Ювелирочка Мода
 http://localhost/iptv/00000000000000/718/index.m3u8
-#EXTINF:0 group-title="другие" tvg-id="2032" tvg-logo="http://epg.it999.ru/img/2032.png",КРИК-ТВ
-http://localhost/iptv/00000000000000/720/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="921" tvg-logo="http://epg.it999.ru/img/921.png",NHK World TV
 http://localhost/iptv/00000000000000/729/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="393" tvg-logo="http://epg.it999.ru/img/393.png",Fine Living
