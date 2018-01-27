@@ -309,7 +309,7 @@ http://localhost/iptv/00000000000000/732/index.m3u8
 http://localhost/iptv/00000000000000/733/index.m3u8
 #EXTINF:0 group-title="кино" tvg-id="1736" tvg-logo="http://epg.it999.ru/img/1736.png",Detektiv.tv
 http://localhost/iptv/00000000000000/734/index.m3u8
-#EXTINF:0 group-title="кино",НТВ‑ХИТ
+#EXTINF:0 group-title="кино" tvg-id="2041" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ‑ХИТ
 http://localhost/iptv/00000000000000/741/index.m3u8
 #EXTINF:0 group-title="кино" tvg-id="1754" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
 http://localhost/iptv/00000000000000/744/index.m3u8
@@ -399,7 +399,7 @@ http://localhost/iptv/00000000000000/152/index.m3u8
 http://localhost/iptv/00000000000000/552/index.m3u8
 #EXTINF:0 group-title="познавательные" tvg-id="520" tvg-logo="http://epg.it999.ru/img/520.png",Домашние Животные
 http://localhost/iptv/00000000000000/158/index.m3u8
-#EXTINF:0 group-title="познавательные",Точка отрыва
+#EXTINF:0 group-title="познавательные" tvg-id="617" tvg-logo="http://epg.it999.ru/img/617.png",Точка отрыва
 http://localhost/iptv/00000000000000/159/index.m3u8
 #EXTINF:0 group-title="познавательные" tvg-id="1732" tvg-logo="http://epg.it999.ru/img/1732.png",Надежда
 http://localhost/iptv/00000000000000/656/index.m3u8
@@ -423,7 +423,7 @@ http://localhost/iptv/00000000000000/731/index.m3u8
 http://localhost/iptv/00000000000000/736/index.m3u8
 #EXTINF:0 group-title="познавательные" tvg-id="2028" tvg-logo="http://epg.it999.ru/img/2028.png",Морской
 http://localhost/iptv/00000000000000/742/index.m3u8
-#EXTINF:0 group-title="познавательные",Усадьба
+#EXTINF:0 group-title="познавательные" tvg-id="434" tvg-logo="http://epg.it999.ru/img/434.png",Усадьба
 http://localhost/iptv/00000000000000/532/index.m3u8
 #EXTINF:0 group-title="познавательные" tvg-id="2155" tvg-logo="http://epg.it999.ru/img/2155.png",English Club TV
 http://localhost/iptv/00000000000000/993/index.m3u8
@@ -473,7 +473,7 @@ http://localhost/iptv/00000000000000/730/index.m3u8
 http://localhost/iptv/00000000000000/737/index.m3u8
 #EXTINF:0 group-title="детские" tvg-id="2033" tvg-logo="http://epg.it999.ru/img/2033.png",Карусель (+3)
 http://localhost/iptv/00000000000000/740/index.m3u8
-#EXTINF:0 group-title="детские",Мультимузыка
+#EXTINF:0 group-title="детские" tvg-id="284" tvg-logo="http://epg.it999.ru/img/284.png",Мультимузыка
 http://localhost/iptv/00000000000000/749/index.m3u8
 #EXTINF:0 group-title="детские" tvg-id="1766" tvg-logo="http://epg.it999.ru/img/1766.png",Мультик HD
 http://localhost/iptv/00000000000000/921/index.m3u8
@@ -541,7 +541,7 @@ http://localhost/iptv/00000000000000/705/index.m3u8
 http://localhost/iptv/00000000000000/706/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="2038" tvg-logo="http://epg.it999.ru/img/2038.png",ТВЦ (+2)
 http://localhost/iptv/00000000000000/716/index.m3u8
-#EXTINF:0 group-title="другие",Ювелирочка Мода
+#EXTINF:0 group-title="другие" tvg-id="2025" tvg-logo="http://epg.it999.ru/img/2025.png",Ювелирочка Мода
 http://localhost/iptv/00000000000000/718/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="921" tvg-logo="http://epg.it999.ru/img/921.png",NHK World TV
 http://localhost/iptv/00000000000000/729/index.m3u8
