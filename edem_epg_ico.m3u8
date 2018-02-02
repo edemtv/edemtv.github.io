@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:0 group-title="українські" tvg-id="2079" tvg-logo="http://epg.it999.ru/img/2079.png",5 канал
 http://localhost/iptv/00000000000000/945/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2080" tvg-logo="http://epg.it999.ru/img/2080.png",ОЦЕ
-http://localhost/iptv/00000000000000/946/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2081" tvg-logo="http://epg.it999.ru/img/2081.png",Brain TV
 http://localhost/iptv/00000000000000/948/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2082" tvg-logo="http://epg.it999.ru/img/2082.png",M1
-http://localhost/iptv/00000000000000/949/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2083" tvg-logo="http://epg.it999.ru/img/2083.png",M2
-http://localhost/iptv/00000000000000/950/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2084" tvg-logo="http://epg.it999.ru/img/2084.png",24 Канал
 http://localhost/iptv/00000000000000/951/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2085" tvg-logo="http://epg.it999.ru/img/2085.png",ATR
@@ -35,8 +29,6 @@ http://localhost/iptv/00000000000000/925/index.m3u8
 http://localhost/iptv/00000000000000/926/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2096" tvg-logo="http://epg.it999.ru/img/2096.png",Eспресо TV
 http://localhost/iptv/00000000000000/927/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2097" tvg-logo="http://epg.it999.ru/img/2097.png",СТБ
-http://localhost/iptv/00000000000000/928/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2098" tvg-logo="http://epg.it999.ru/img/2098.png",Мега
 http://localhost/iptv/00000000000000/929/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2099" tvg-logo="http://epg.it999.ru/img/2099.png",К2
@@ -47,10 +39,6 @@ http://localhost/iptv/00000000000000/931/index.m3u8
 http://localhost/iptv/00000000000000/932/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2102" tvg-logo="http://epg.it999.ru/img/2102.png",Enter-фільм
 http://localhost/iptv/00000000000000/933/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2103" tvg-logo="http://epg.it999.ru/img/2103.png",ICTV
-http://localhost/iptv/00000000000000/934/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2104" tvg-logo="http://epg.it999.ru/img/2104.png",Новий Канал
-http://localhost/iptv/00000000000000/935/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2105" tvg-logo="http://epg.it999.ru/img/2105.png",НТН
 http://localhost/iptv/00000000000000/936/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2106" tvg-logo="http://epg.it999.ru/img/2106.png",Інтер
