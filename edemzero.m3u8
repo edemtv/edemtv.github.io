@@ -407,7 +407,7 @@ http://localhost/iptv/00000000000000/703/index.m3u8
 http://localhost/iptv/00000000000000/725/index.m3u8
 #EXTINF:0 group-title="познавательные",Зоопарк
 http://localhost/iptv/00000000000000/731/index.m3u8
-#EXTINF:0 group-title="познавательные",Game Show
+#EXTINF:0 group-title="познавательные",E
 http://localhost/iptv/00000000000000/736/index.m3u8
 #EXTINF:0 group-title="познавательные",Морской
 http://localhost/iptv/00000000000000/742/index.m3u8

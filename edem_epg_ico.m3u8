@@ -407,7 +407,7 @@ http://localhost/iptv/00000000000000/703/index.m3u8
 http://localhost/iptv/00000000000000/725/index.m3u8
 #EXTINF:0 group-title="познавательные" tvg-id="367" tvg-logo="http://epg.it999.ru/img/367.png",Зоопарк
 http://localhost/iptv/00000000000000/731/index.m3u8
-#EXTINF:0 group-title="познавательные" tvg-id="1676" tvg-logo="http://epg.it999.ru/img/1676.png",Game Show
+#EXTINF:0 group-title="познавательные",E
 http://localhost/iptv/00000000000000/736/index.m3u8
 #EXTINF:0 group-title="познавательные" tvg-id="2028" tvg-logo="http://epg.it999.ru/img/2028.png",Морской
 http://localhost/iptv/00000000000000/742/index.m3u8
