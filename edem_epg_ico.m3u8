@@ -185,8 +185,6 @@ http://localhost/iptv/00000000000000/1040/index.m3u8
 http://localhost/iptv/00000000000000/1045/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2228" tvg-logo="http://epg.it999.ru/img/2228.png",8 Канал
 http://localhost/iptv/00000000000000/1046/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2229" tvg-logo="http://epg.it999.ru/img/2229.png",33 канал
-http://localhost/iptv/00000000000000/1048/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2230" tvg-logo="http://epg.it999.ru/img/2230.png",Чернiвцi
 http://localhost/iptv/00000000000000/1072/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2231" tvg-logo="http://epg.it999.ru/img/2231.png",24 Канал HD
@@ -721,6 +719,8 @@ http://localhost/iptv/00000000000000/823/index.m3u8
 http://localhost/iptv/00000000000000/996/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2244" tvg-logo="http://epg.it999.ru/img/2244.png",Fashiontv EN HD
 http://localhost/iptv/00000000000000/1011/index.m3u8
+#EXTINF:0 group-title="HD",Epic Drama
+http://localhost/iptv/00000000000000/1048/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="431" tvg-logo="http://epg.it999.ru/img/431.png",Эгоист
 http://localhost/iptv/00000000000000/526/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="2014" tvg-logo="http://epg.it999.ru/img/2014.png",Playboy

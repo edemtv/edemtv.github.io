@@ -185,8 +185,6 @@ http://localhost/iptv/00000000000000/1040/index.m3u8
 http://localhost/iptv/00000000000000/1045/index.m3u8
 #EXTINF:0 group-title="українські",8 Канал
 http://localhost/iptv/00000000000000/1046/index.m3u8
-#EXTINF:0 group-title="українські",33 канал
-http://localhost/iptv/00000000000000/1048/index.m3u8
 #EXTINF:0 group-title="українські",Чернiвцi
 http://localhost/iptv/00000000000000/1072/index.m3u8
 #EXTINF:0 group-title="українські",24 Канал HD
@@ -721,6 +719,8 @@ http://localhost/iptv/00000000000000/823/index.m3u8
 http://localhost/iptv/00000000000000/996/index.m3u8
 #EXTINF:0 group-title="HD",Fashiontv EN HD
 http://localhost/iptv/00000000000000/1011/index.m3u8
+#EXTINF:0 group-title="HD",Epic Drama
+http://localhost/iptv/00000000000000/1048/index.m3u8
 #EXTINF:0 group-title="взрослые",Эгоист
 http://localhost/iptv/00000000000000/526/index.m3u8
 #EXTINF:0 group-title="взрослые",Playboy
