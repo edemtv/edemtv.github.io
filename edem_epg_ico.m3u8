@@ -719,7 +719,7 @@ http://localhost/iptv/00000000000000/823/index.m3u8
 http://localhost/iptv/00000000000000/996/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2244" tvg-logo="http://epg.it999.ru/img/2244.png",Fashiontv EN HD
 http://localhost/iptv/00000000000000/1011/index.m3u8
-#EXTINF:0 group-title="HD",Epic Drama
+#EXTINF:0 group-title="HD" tvg-id="2229" tvg-logo="http://epg.it999.ru/img/2229.png",Epic Drama
 http://localhost/iptv/00000000000000/1048/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="431" tvg-logo="http://epg.it999.ru/img/431.png",Эгоист
 http://localhost/iptv/00000000000000/526/index.m3u8
