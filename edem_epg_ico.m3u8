@@ -493,7 +493,7 @@ http://localhost/iptv/00000000000000/501/index.m3u8
 http://localhost/iptv/00000000000000/502/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="1003" tvg-logo="http://epg.it999.ru/img/1003.png",Пятница
 http://localhost/iptv/00000000000000/503/index.m3u8
-#EXTINF:0 group-title="другие",Россия 1
+#EXTINF:0 group-title="другие" tvg-id="711" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1
 http://localhost/iptv/00000000000000/504/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="79" tvg-logo="http://epg.it999.ru/img/79.png",СТС
 http://localhost/iptv/00000000000000/506/index.m3u8
