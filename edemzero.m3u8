@@ -313,6 +313,8 @@ http://localhost/iptv/00000000000000/821/index.m3u8
 http://localhost/iptv/00000000000000/1001/index.m3u8
 #EXTINF:0 group-title="кино",FilmBox EN
 http://localhost/iptv/00000000000000/1071/index.m3u8
+#EXTINF:0 group-title="кино",Дорама
+http://localhost/iptv/00000000000000/1066/index.m3u8
 #EXTINF:0 group-title="музыка",Europa Plus TV
 http://localhost/iptv/00000000000000/115/index.m3u8
 #EXTINF:0 group-title="музыка",МУЗ
@@ -593,8 +595,6 @@ http://localhost/iptv/00000000000000/1062/index.m3u8
 http://localhost/iptv/00000000000000/1064/index.m3u8
 #EXTINF:0 group-title="другие",Silence TV HD
 http://localhost/iptv/00000000000000/1065/index.m3u8
-#EXTINF:0 group-title="другие",Новый мир
-http://localhost/iptv/00000000000000/1066/index.m3u8
 #EXTINF:0 group-title="другие",ILand
 http://localhost/iptv/00000000000000/1067/index.m3u8
 #EXTINF:0 group-title="HD",Первый HD
