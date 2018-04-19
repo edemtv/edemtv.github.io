@@ -313,7 +313,7 @@ http://localhost/iptv/00000000000000/821/index.m3u8
 http://localhost/iptv/00000000000000/1001/index.m3u8
 #EXTINF:0 group-title="кино" tvg-id="2234" tvg-logo="http://epg.it999.ru/img/2234.png",FilmBox EN
 http://localhost/iptv/00000000000000/1071/index.m3u8
-#EXTINF:0 group-title="кино",Дорама
+#EXTINF:0 group-title="кино" tvg-id="2174" tvg-logo="http://epg.it999.ru/img/2174.png",Дорама
 http://localhost/iptv/00000000000000/1066/index.m3u8
 #EXTINF:0 group-title="музыка" tvg-id="681" tvg-logo="http://epg.it999.ru/img/681.png",Europa Plus TV
 http://localhost/iptv/00000000000000/115/index.m3u8
