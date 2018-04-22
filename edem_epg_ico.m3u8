@@ -101,8 +101,6 @@ http://localhost/iptv/00000000000000/1027/index.m3u8
 http://localhost/iptv/00000000000000/1028/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2151" tvg-logo="http://epg.it999.ru/img/2151.png",TV5
 http://localhost/iptv/00000000000000/1030/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2152" tvg-logo="http://epg.it999.ru/img/2152.png",The MIR
-http://localhost/iptv/00000000000000/1039/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2153" tvg-logo="http://epg.it999.ru/img/2153.png",Star Family
 http://localhost/iptv/00000000000000/1042/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2154" tvg-logo="http://epg.it999.ru/img/2154.png",Интер+
@@ -189,6 +187,8 @@ http://localhost/iptv/00000000000000/1046/index.m3u8
 http://localhost/iptv/00000000000000/1072/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2231" tvg-logo="http://epg.it999.ru/img/2231.png",24 Канал HD
 http://localhost/iptv/00000000000000/1063/index.m3u8
+#EXTINF:0 group-title="українські",Sirius
+http://localhost/iptv/00000000000000/1039/index.m3u8
 #EXTINF:0 group-title="новости" tvg-id="743" tvg-logo="http://epg.it999.ru/img/743.png",РБК-ТВ
 http://localhost/iptv/00000000000000/106/index.m3u8
 #EXTINF:0 group-title="новости" tvg-id="427" tvg-logo="http://epg.it999.ru/img/427.png",Пятый Канал

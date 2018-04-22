@@ -101,8 +101,6 @@ http://localhost/iptv/00000000000000/1027/index.m3u8
 http://localhost/iptv/00000000000000/1028/index.m3u8
 #EXTINF:0 group-title="українські",TV5
 http://localhost/iptv/00000000000000/1030/index.m3u8
-#EXTINF:0 group-title="українські",The MIR
-http://localhost/iptv/00000000000000/1039/index.m3u8
 #EXTINF:0 group-title="українські",Star Family
 http://localhost/iptv/00000000000000/1042/index.m3u8
 #EXTINF:0 group-title="українські",Интер+
@@ -189,6 +187,8 @@ http://localhost/iptv/00000000000000/1046/index.m3u8
 http://localhost/iptv/00000000000000/1072/index.m3u8
 #EXTINF:0 group-title="українські",24 Канал HD
 http://localhost/iptv/00000000000000/1063/index.m3u8
+#EXTINF:0 group-title="українські",Sirius
+http://localhost/iptv/00000000000000/1039/index.m3u8
 #EXTINF:0 group-title="новости",РБК-ТВ
 http://localhost/iptv/00000000000000/106/index.m3u8
 #EXTINF:0 group-title="новости",Пятый Канал
