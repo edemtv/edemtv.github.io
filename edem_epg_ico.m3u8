@@ -779,6 +779,8 @@ http://localhost/iptv/00000000000000/601/index.m3u8
 http://localhost/iptv/00000000000000/602/index.m3u8
 #EXTINF:0 group-title="Հայկական" tvg-id="2062" tvg-logo="http://epg.it999.ru/img/2062.png",Հ2
 http://localhost/iptv/00000000000000/603/index.m3u8
+#EXTINF:0 group-title="Հայկական" tvg-id="2063" tvg-logo="http://epg.it999.ru/img/2063.png",Շանթ
+http://localhost/iptv/00000000000000/604/index.m3u8
 #EXTINF:0 group-title="Հայկական" tvg-id="2064" tvg-logo="http://epg.it999.ru/img/2064.png",Արմենիա Tv HD
 http://localhost/iptv/00000000000000/605/index.m3u8
 #EXTINF:0 group-title="Հայկական" tvg-id="2065" tvg-logo="http://epg.it999.ru/img/2065.png",Կենտրոն

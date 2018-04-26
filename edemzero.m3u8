@@ -779,6 +779,8 @@ http://localhost/iptv/00000000000000/601/index.m3u8
 http://localhost/iptv/00000000000000/602/index.m3u8
 #EXTINF:0 group-title="Հայկական",Հ2
 http://localhost/iptv/00000000000000/603/index.m3u8
+#EXTINF:0 group-title="Հայկական",Շանթ
+http://localhost/iptv/00000000000000/604/index.m3u8
 #EXTINF:0 group-title="Հայկական",Արմենիա Tv HD
 http://localhost/iptv/00000000000000/605/index.m3u8
 #EXTINF:0 group-title="Հայկական",Կենտրոն
