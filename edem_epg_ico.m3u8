@@ -669,8 +669,6 @@ http://localhost/iptv/00000000000000/233/index.m3u8
 http://localhost/iptv/00000000000000/234/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="1588" tvg-logo="http://epg.it999.ru/img/1588.png",Остросюжетное HD
 http://localhost/iptv/00000000000000/904/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="1035" tvg-logo="http://epg.it999.ru/img/1035.png",Travel+Adventure HD
-http://localhost/iptv/00000000000000/908/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2020" tvg-logo="http://epg.it999.ru/img/2020.png",Дом Кино Премиум HD
 http://localhost/iptv/00000000000000/911/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="138" tvg-logo="http://epg.it999.ru/img/138.png",Кинопоказ HD-1
@@ -685,8 +683,6 @@ http://localhost/iptv/00000000000000/915/index.m3u8
 http://localhost/iptv/00000000000000/917/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="930" tvg-logo="http://epg.it999.ru/img/930.png",Еда HD
 http://localhost/iptv/00000000000000/918/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="464" tvg-logo="http://epg.it999.ru/img/464.png",Fox Life HD
-http://localhost/iptv/00000000000000/920/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2023" tvg-logo="http://epg.it999.ru/img/2023.png",Мир HD
 http://localhost/iptv/00000000000000/235/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2022" tvg-logo="http://epg.it999.ru/img/2022.png",BRIDGE HD

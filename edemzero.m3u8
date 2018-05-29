@@ -669,8 +669,6 @@ http://localhost/iptv/00000000000000/233/index.m3u8
 http://localhost/iptv/00000000000000/234/index.m3u8
 #EXTINF:0 group-title="HD",Остросюжетное HD
 http://localhost/iptv/00000000000000/904/index.m3u8
-#EXTINF:0 group-title="HD",Travel+Adventure HD
-http://localhost/iptv/00000000000000/908/index.m3u8
 #EXTINF:0 group-title="HD",Дом Кино Премиум HD
 http://localhost/iptv/00000000000000/911/index.m3u8
 #EXTINF:0 group-title="HD",Кинопоказ HD-1
@@ -685,8 +683,6 @@ http://localhost/iptv/00000000000000/915/index.m3u8
 http://localhost/iptv/00000000000000/917/index.m3u8
 #EXTINF:0 group-title="HD",Еда HD
 http://localhost/iptv/00000000000000/918/index.m3u8
-#EXTINF:0 group-title="HD",Fox Life HD
-http://localhost/iptv/00000000000000/920/index.m3u8
 #EXTINF:0 group-title="HD",Мир HD
 http://localhost/iptv/00000000000000/235/index.m3u8
 #EXTINF:0 group-title="HD",BRIDGE HD
