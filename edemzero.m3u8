@@ -125,14 +125,8 @@ http://localhost/iptv/00000000000000/802/index.m3u8
 http://localhost/iptv/00000000000000/804/index.m3u8
 #EXTINF:0 group-title="українські",Україна
 http://localhost/iptv/00000000000000/809/index.m3u8
-#EXTINF:0 group-title="українські",1+1
-http://localhost/iptv/00000000000000/994/index.m3u8
-#EXTINF:0 group-title="українські",2+2
-http://localhost/iptv/00000000000000/995/index.m3u8
 #EXTINF:0 group-title="українські",XSPORT
 http://localhost/iptv/00000000000000/997/index.m3u8
-#EXTINF:0 group-title="українські",Бiгудi
-http://localhost/iptv/00000000000000/989/index.m3u8
 #EXTINF:0 group-title="українські",НТА
 http://localhost/iptv/00000000000000/990/index.m3u8
 #EXTINF:0 group-title="українські",ТВА
@@ -141,8 +135,6 @@ http://localhost/iptv/00000000000000/998/index.m3u8
 http://localhost/iptv/00000000000000/999/index.m3u8
 #EXTINF:0 group-title="українські",ZOOM
 http://localhost/iptv/00000000000000/1000/index.m3u8
-#EXTINF:0 group-title="українські",ПлюсПлюс
-http://localhost/iptv/00000000000000/1002/index.m3u8
 #EXTINF:0 group-title="українські",Малятко ТВ
 http://localhost/iptv/00000000000000/1003/index.m3u8
 #EXTINF:0 group-title="українські",Галичина
@@ -153,8 +145,6 @@ http://localhost/iptv/00000000000000/1006/index.m3u8
 http://localhost/iptv/00000000000000/1007/index.m3u8
 #EXTINF:0 group-title="українські",ZIK
 http://localhost/iptv/00000000000000/1008/index.m3u8
-#EXTINF:0 group-title="українські",ТЕТ
-http://localhost/iptv/00000000000000/1009/index.m3u8
 #EXTINF:0 group-title="українські",HDFASHION&LifeStyle
 http://localhost/iptv/00000000000000/1012/index.m3u8
 #EXTINF:0 group-title="українські",Сонце
@@ -171,8 +161,6 @@ http://localhost/iptv/00000000000000/1019/index.m3u8
 http://localhost/iptv/00000000000000/1020/index.m3u8
 #EXTINF:0 group-title="українські",Ескулап TV
 http://localhost/iptv/00000000000000/1022/index.m3u8
-#EXTINF:0 group-title="українські",УНІАН
-http://localhost/iptv/00000000000000/1023/index.m3u8
 #EXTINF:0 group-title="українські",UA|TV HD
 http://localhost/iptv/00000000000000/1024/index.m3u8
 #EXTINF:0 group-title="українські",RTI
