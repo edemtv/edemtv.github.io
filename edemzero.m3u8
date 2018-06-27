@@ -69,8 +69,6 @@ http://localhost/iptv/00000000000000/943/index.m3u8
 http://localhost/iptv/00000000000000/944/index.m3u8
 #EXTINF:0 group-title="українські",ТРК Алекс
 http://localhost/iptv/00000000000000/967/index.m3u8
-#EXTINF:0 group-title="українські",ТРК Буковина
-http://localhost/iptv/00000000000000/968/index.m3u8
 #EXTINF:0 group-title="українські",Глас
 http://localhost/iptv/00000000000000/972/index.m3u8
 #EXTINF:0 group-title="українські",Правда Тут
@@ -591,8 +589,6 @@ http://localhost/iptv/00000000000000/1060/index.m3u8
 http://localhost/iptv/00000000000000/1061/index.m3u8
 #EXTINF:0 group-title="другие",HardLife TV
 http://localhost/iptv/00000000000000/1062/index.m3u8
-#EXTINF:0 group-title="другие",Миллет
-http://localhost/iptv/00000000000000/1064/index.m3u8
 #EXTINF:0 group-title="другие",Silence TV HD
 http://localhost/iptv/00000000000000/1065/index.m3u8
 #EXTINF:0 group-title="другие",ILand
@@ -717,6 +713,8 @@ http://localhost/iptv/00000000000000/996/index.m3u8
 http://localhost/iptv/00000000000000/1011/index.m3u8
 #EXTINF:0 group-title="HD",Epic Drama
 http://localhost/iptv/00000000000000/1048/index.m3u8
+#EXTINF:0 group-title="HD",Deluxe Lounge HD
+http://localhost/iptv/00000000000000/968/index.m3u8
 #EXTINF:0 group-title="взрослые",Эгоист
 http://localhost/iptv/00000000000000/526/index.m3u8
 #EXTINF:0 group-title="взрослые",Playboy
@@ -735,6 +733,8 @@ http://localhost/iptv/00000000000000/923/index.m3u8
 http://localhost/iptv/00000000000000/813/index.m3u8
 #EXTINF:0 group-title="взрослые",Penthouse TV
 http://localhost/iptv/00000000000000/1073/index.m3u8
+#EXTINF:0 group-title="взрослые",Blue Hustler
+http://localhost/iptv/00000000000000/1064/index.m3u8
 #EXTINF:0 group-title="спорт",Матч! Наш спорт
 http://localhost/iptv/00000000000000/107/index.m3u8
 #EXTINF:0 group-title="спорт",Матч! Планета

@@ -69,8 +69,6 @@ http://localhost/iptv/00000000000000/943/index.m3u8
 http://localhost/iptv/00000000000000/944/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2114" tvg-logo="http://epg.it999.ru/img/2114.png",ТРК Алекс
 http://localhost/iptv/00000000000000/967/index.m3u8
-#EXTINF:0 group-title="українські" tvg-id="2115" tvg-logo="http://epg.it999.ru/img/2115.png",ТРК Буковина
-http://localhost/iptv/00000000000000/968/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2116" tvg-logo="http://epg.it999.ru/img/2116.png",Глас
 http://localhost/iptv/00000000000000/972/index.m3u8
 #EXTINF:0 group-title="українські" tvg-id="2117" tvg-logo="http://epg.it999.ru/img/2117.png",Правда Тут
@@ -591,8 +589,6 @@ http://localhost/iptv/00000000000000/1060/index.m3u8
 http://localhost/iptv/00000000000000/1061/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="2171" tvg-logo="http://epg.it999.ru/img/2171.png",HardLife TV
 http://localhost/iptv/00000000000000/1062/index.m3u8
-#EXTINF:0 group-title="другие" tvg-id="2172" tvg-logo="http://epg.it999.ru/img/2172.png",Миллет
-http://localhost/iptv/00000000000000/1064/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="2173" tvg-logo="http://epg.it999.ru/img/2173.png",Silence TV HD
 http://localhost/iptv/00000000000000/1065/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="2175" tvg-logo="http://epg.it999.ru/img/2175.png",ILand
@@ -717,6 +713,8 @@ http://localhost/iptv/00000000000000/996/index.m3u8
 http://localhost/iptv/00000000000000/1011/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2229" tvg-logo="http://epg.it999.ru/img/2229.png",Epic Drama
 http://localhost/iptv/00000000000000/1048/index.m3u8
+#EXTINF:0 group-title="HD",Deluxe Lounge HD
+http://localhost/iptv/00000000000000/968/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="431" tvg-logo="http://epg.it999.ru/img/431.png",Эгоист
 http://localhost/iptv/00000000000000/526/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="2014" tvg-logo="http://epg.it999.ru/img/2014.png",Playboy
@@ -735,6 +733,8 @@ http://localhost/iptv/00000000000000/923/index.m3u8
 http://localhost/iptv/00000000000000/813/index.m3u8
 #EXTINF:0 group-title="взрослые" tvg-id="2245" tvg-logo="http://epg.it999.ru/img/2245.png",Penthouse TV
 http://localhost/iptv/00000000000000/1073/index.m3u8
+#EXTINF:0 group-title="взрослые",Blue Hustler
+http://localhost/iptv/00000000000000/1064/index.m3u8
 #EXTINF:0 group-title="спорт" tvg-id="2042" tvg-logo="http://epg.it999.ru/img/2042.png",Матч! Наш спорт
 http://localhost/iptv/00000000000000/107/index.m3u8
 #EXTINF:0 group-title="спорт" tvg-id="2043" tvg-logo="http://epg.it999.ru/img/2043.png",Матч! Планета
