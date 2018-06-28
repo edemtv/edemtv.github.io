@@ -3,10 +3,6 @@
 http://localhost/iptv/00000000000000/945/index.m3u8
 #EXTINF:0 group-title="українські",Brain TV
 http://localhost/iptv/00000000000000/948/index.m3u8
-#EXTINF:0 group-title="українські",M1
-http://localhost/iptv/00000000000000/949/index.m3u8
-#EXTINF:0 group-title="українські",M2
-http://localhost/iptv/00000000000000/950/index.m3u8
 #EXTINF:0 group-title="українські",24 Канал
 http://localhost/iptv/00000000000000/951/index.m3u8
 #EXTINF:0 group-title="українські",ATR
@@ -33,8 +29,6 @@ http://localhost/iptv/00000000000000/925/index.m3u8
 http://localhost/iptv/00000000000000/926/index.m3u8
 #EXTINF:0 group-title="українські",Eспресо TV
 http://localhost/iptv/00000000000000/927/index.m3u8
-#EXTINF:0 group-title="українські",СТБ
-http://localhost/iptv/00000000000000/928/index.m3u8
 #EXTINF:0 group-title="українські",Мега
 http://localhost/iptv/00000000000000/929/index.m3u8
 #EXTINF:0 group-title="українські",К2
@@ -45,10 +39,6 @@ http://localhost/iptv/00000000000000/931/index.m3u8
 http://localhost/iptv/00000000000000/932/index.m3u8
 #EXTINF:0 group-title="українські",Enter-фільм
 http://localhost/iptv/00000000000000/933/index.m3u8
-#EXTINF:0 group-title="українські",ICTV
-http://localhost/iptv/00000000000000/934/index.m3u8
-#EXTINF:0 group-title="українські",Новий Канал
-http://localhost/iptv/00000000000000/935/index.m3u8
 #EXTINF:0 group-title="українські",НТН
 http://localhost/iptv/00000000000000/936/index.m3u8
 #EXTINF:0 group-title="українські",Інтер
