@@ -527,8 +527,6 @@ http://localhost/iptv/00000000000000/2101/index.m3u8
 http://localhost/iptv/00000000000000/2118/index.m3u8
 #EXTINF:0 group-title="познавательные",Пёс и Ко
 http://localhost/iptv/00000000000000/2123/index.m3u8
-#EXTINF:0 group-title="познавательные",Наука HD
-http://localhost/iptv/00000000000000/2155/index.m3u8
 #EXTINF:0 group-title="детские",Tiji TV
 http://localhost/iptv/00000000000000/108/index.m3u8
 #EXTINF:0 group-title="детские",Gulli
@@ -765,8 +763,6 @@ http://localhost/iptv/00000000000000/2041/index.m3u8
 http://localhost/iptv/00000000000000/2042/index.m3u8
 #EXTINF:0 group-title="другие",Точка ТВ
 http://localhost/iptv/00000000000000/2053/index.m3u8
-#EXTINF:0 group-title="другие",360° HD
-http://localhost/iptv/00000000000000/2065/index.m3u8
 #EXTINF:0 group-title="другие",Хамдан
 http://localhost/iptv/00000000000000/2066/index.m3u8
 #EXTINF:0 group-title="другие",Раз ТВ
@@ -957,6 +953,8 @@ http://localhost/iptv/00000000000000/2046/index.m3u8
 http://localhost/iptv/00000000000000/2056/index.m3u8
 #EXTINF:0 group-title="HD",Discovery HD Showcase
 http://localhost/iptv/00000000000000/2058/index.m3u8
+#EXTINF:0 group-title="HD",360° HD
+http://localhost/iptv/00000000000000/2065/index.m3u8
 #EXTINF:0 group-title="HD",Живая природа HD
 http://localhost/iptv/00000000000000/2074/index.m3u8
 #EXTINF:0 group-title="HD",Русский роман HD
@@ -1015,6 +1013,8 @@ http://localhost/iptv/00000000000000/2135/index.m3u8
 http://localhost/iptv/00000000000000/2146/index.m3u8
 #EXTINF:0 group-title="HD",Открытый HD
 http://localhost/iptv/00000000000000/2148/index.m3u8
+#EXTINF:0 group-title="HD",Наука HD
+http://localhost/iptv/00000000000000/2155/index.m3u8
 #EXTINF:0 group-title="взрослые",SHOT TV
 http://localhost/iptv/00000000000000/526/index.m3u8
 #EXTINF:0 group-title="взрослые",Playboy
@@ -1403,7 +1403,7 @@ http://localhost/iptv/00000000000000/2321/index.m3u8
 http://localhost/iptv/00000000000000/2322/index.m3u8
 #EXTINF:0 group-title="türk",beIN SPORTS HABER HD
 http://localhost/iptv/00000000000000/2323/index.m3u8
-#EXTINF:0 group-title="türk",CARTOON NETWORK
+#EXTINF:0 group-title="türk",CARTOON NETWORK TR
 http://localhost/iptv/00000000000000/2325/index.m3u8
 #EXTINF:0 group-title="türk",KANAL D
 http://localhost/iptv/00000000000000/2326/index.m3u8
